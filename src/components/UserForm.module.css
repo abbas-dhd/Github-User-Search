@@ -1,0 +1,31 @@
+.user-input {
+    border-radius: 0;
+    border: 2px solid #1b1b1b;
+    font-family: roboto;
+    font-size: 20px;
+}
+.card_spacing {
+    padding: 1rem;
+}
+
+.submit-btn {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 0;
+    border: 3px solid #1b1b1b;
+    background-color: #1b1b1b;
+    color: white;
+    font-family: roboto;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    color: #1b1b1b;
+    background-color: white;
+}
+
+.invalid {
+    background-color: pink;
+    border: 2px solid red;
+}
